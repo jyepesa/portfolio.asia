@@ -1,0 +1,39 @@
+* {
+    font-size: 16px;
+    font-family: optima;
+    background-color: #f1ddbf;
+    margin-left: 0;
+    margin-right: 0;
+}
+.nav-list {
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    height: 20px;
+    padding-right: 5%;
+}
+.nav-list li {
+    margin: 0 20px;
+}
+#name {
+    font-family: "Mea Culpa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6rem;
+   margin-bottom: 0;
+}
+.voice {
+    font-size: 3rem;
+    margin-top: 5px;
+}
+#banner {
+    margin-left: 5%;
+    
+}
+
+#about, #repertoire, #media, #contact {
+    background-color: #525e75;
+    color: azure;
+    width: 100%;
+
+}
